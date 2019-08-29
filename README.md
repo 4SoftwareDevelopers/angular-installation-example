@@ -8,7 +8,7 @@ Instalación de Angular y Ejemplo práctico
 
 ### Comandos para la instalación de Angular
 
-1. Instalar la última versión de npm
+#### 1. Instalar la última versión de npm
 
  `$ npm install -g npm@latest`
 
